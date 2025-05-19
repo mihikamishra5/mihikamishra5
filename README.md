@@ -9,7 +9,7 @@
 - 🌱 I’m currently deepening my skills in Natural Language Processing (NLP) and Machine Learning.
 - 🤔 I’m looking for new opportunities to apply my data science expertise in innovative projects.
 - 💬 Ask me about Data Science, Machine Learning, AI, and Python.
-- 📫 How to reach me: [mihika.mishra@pace.edu](mailto:mihika.mishra@pace.edu) or [LinkedIn](https://www.linkedin.com/in/mihika-mishra-570/).
+- 📫 How to reach me: [mihikamishra005@gmail.com](mailto:mihikamishra005@gmail.com) or [LinkedIn](https://www.linkedin.com/in/mihika-mishra-570/).
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm passionate about trading and am currently exploring how to use analytics and technology to develop and enhance trading strategies!
 
